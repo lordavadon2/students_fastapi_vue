@@ -1,0 +1,10 @@
+services/backend/settings.txt
+services/backend/__pycache__
+services/backend/config/__pycache__
+services/backend/models/__pycache__
+services/backend/models/__pycache__
+services/backend/schemas/__pycache__
+services/backend/.idea
+services/frontend/node_modules
+services/frontend/.idea
+
